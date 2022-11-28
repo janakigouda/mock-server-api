@@ -18,5 +18,19 @@
           "user_name": "Peter Parker",
           "text": "You are the spiderman of this world"
       }
+  ],
+  "users":[
+    {
+      "id":1,
+      "name":"Janaki"
+    },
+    {
+      "id":2,
+      "name":"Soumya"
+    },
+    {
+      "id":3,
+      "name":"Sushi"
+    }
   ]
 }
